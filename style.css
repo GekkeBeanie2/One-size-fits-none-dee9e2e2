@@ -1,0 +1,13 @@
+li { 
+	color: red;
+	outline-color: black; 
+}
+
+a {
+	flood-color: pink;
+	color: pink;
+}
+
+body {
+	background-color: darkgrey;
+}
