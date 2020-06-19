@@ -11,3 +11,8 @@ a {
 body {
 	background-color: darkgrey;
 }
+
+#foto {
+	width: 20%;
+	height: 15%;
+}
